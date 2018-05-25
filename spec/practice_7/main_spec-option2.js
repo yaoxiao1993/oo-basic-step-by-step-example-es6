@@ -84,7 +84,6 @@ describe("Option-2 Person", () => {
             });
         });
 
-
         describe("#introduceWith", () => {
             let studentJerry;
 
